@@ -19,9 +19,11 @@ $ make
 1<sup>st</sup> line tells 5 integers are to be sorted.  
 Next 5 lines contain innteger to be sorted, one every line.
 * Run the program by following command.This will give sorted result on the standard output.
-```` sh
-$ ./merge
-````  
+
+	``` sh
+	$ ./merge
+	```  
+	
    
 #### Todos
 * If no more processes could be created (all PID's have been used) this program couldn't sort yet.Need to improve  upon this.
